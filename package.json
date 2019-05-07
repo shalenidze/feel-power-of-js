@@ -1,0 +1,12 @@
+{
+  "name": "feel-power-of-js",
+  "version": "1.0.0",
+  "description": "Pretty js package",
+  "main": "index.js",
+  "repository": "https://github.com/shalenidze/feel-power-of-js",
+  "author": "Ivan Kyvatskyi <kyvatskyi.software@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
